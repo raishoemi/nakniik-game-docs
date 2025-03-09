@@ -31,7 +31,8 @@
               "title": "Naknik Game Design"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Naknik Game Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Naknik Game Design"
             }
           },
           {
@@ -190,7 +192,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b3442175b50f6779",
+  "active": "b531c7400d29b584",
   "lastOpenFiles": [
     "Naknik Game Thoughts][.md",
     "Naknik Run Attempt 1.md",
