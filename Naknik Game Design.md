@@ -4,9 +4,14 @@
 # Description
 In a remote kingdom, you serve as the king's advisor, navigating daily encounters with kingdom officials and citizens whose requests shape your path.
 ### Win Condition
-- You win when you've built a coalition to overthrow the king
+You win when you've built a coalition to overthrow the king
+[[Win Condition]]
 ### Lose Condition
 - You lose when you fail to fulfil a kingdom official's request 3 times
+[[Lose Condition]]
+### Money
+
+
 # Terminology
 - Council-member/Minister/Royal Appointee/Kingdom Official (WIP, need to decide on one name) - these are names for king-appointed people whose requests you're expected to fulfil.
 - Citizen: any non-royal person

@@ -35,3 +35,4 @@ Information could include:
 - Encounter rarity
 - Encounter special bargains available / Favors available
 - (if royal) - minimal cost
+
