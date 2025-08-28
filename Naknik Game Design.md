@@ -3,6 +3,9 @@
 *This document contains finished thoughts, not WIP content*
 # Description
 In a remote kingdom, you serve as the king's advisor, navigating daily encounters with kingdom officials and citizens whose requests shape your path.
+
+Good description provided by ChatGPT:
+>You’re the weasel in the king’s ear. By day, you counsel the throne. By night, you spin webs of deals, debt, and betrayal. One day, your web will tighten — and the king will fall
 ### Win Condition
 You win when you've built a coalition to overthrow the king
 [[Win Condition]]

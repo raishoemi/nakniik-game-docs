@@ -12,7 +12,7 @@ Mr. Bombastic:
 - Performer
 
 And so forth.
-So when Mr. Bombastic owes you a favor, you can utilize it as a favor from either "Upper-class" (if you need an tax-breaks) or "Performers" (if you need a performance)
+So when Mr. Bombastic owes you a favor, you can utilize it as a favor from either "Upper-class" (if you need tax-breaks) or "Performers" (if you need a performance)
 
 ### Multiple Tags
 - Some tags share other tags - for example someone can be both `PERFOMER` and `UPPER_CLASS`
