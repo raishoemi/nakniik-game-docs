@@ -10,7 +10,8 @@ Good description provided by ChatGPT:
 You win when you've built a coalition to overthrow the king
 [[Win Condition]]
 ### Lose Condition
-- You lose when you fail to fulfil a kingdom official's request 3 times
+- ~~You lose when you fail to fulfil a kingdom official's request 3 times~~
+- You lose by getting caught.
 [[Lose Condition]]
 ### Money
 

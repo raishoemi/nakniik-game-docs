@@ -1,0 +1,17 @@
+{
+    "people": {
+        "king": {
+            "name": "King Alaric",
+            "class": "Royalty",
+            ""
+        },
+        "spymaster": {
+            "name": "Lady Seraphine",
+            "traits": ["cunning", "secretive", "manipulative"]
+        },
+        "guard_captain": {
+            "name": "Captain Thorne",
+            "traits": ["loyal", "brave", "stern"]
+        }
+    }
+}
